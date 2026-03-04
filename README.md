@@ -1,7 +1,7 @@
 
 # Understanding CUDA Threads, Blocks, and Grids Through Vector Addition and Matrix Multiplication
 
-I finally got an understanding how CUDA parallelizes computation using **threads, blocks, and grids**, based on two examples:
+I finally got to understanding how CUDA parallelizes computation using **threads, blocks, and grids**, based on two examples:
 
 1. Vector addition
 2. Matrix multiplication
